@@ -26,7 +26,7 @@
 
 - 📲 Calculating All Input Data.
 
-- 📶 Showing Your Data With 🎭 Expressive Image & 💡 Simple Advice. 
+- 📶 Showing Your Data With 🎭 Expressive Image & 💡 Simple Advice.
 
 
 
@@ -41,6 +41,10 @@
 <a href="#"><img width="100%" height="auto" src="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/278861500_4601182346653519_486409930773259011_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGHYum0HFws0bOMdbs7omRSt6XF0_6Nk3C3pcXT_o2TcKj7aeTVdwaojrJSIgZNuVhVzhCopC3fTv9WwTkFmXGI&_nc_ohc=a6zoGWqfo_0AX8II2dT&tn=IGhBnhHt-IRN6-RI&_nc_ht=scontent-ams4-1.xx&oh=00_AT_FGzWHinz5k8wU2hGbdQ2XQg3wejrbWfzYBrBZfEFvQg&oe=6262E288" height="175px"/></a>
 
 
+
+## 📱 Application Icon:
+
+<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/1kpyON5QX0hI8C9Gv5YaCs1VQ1lKKV3h7JALiJ8y6X-Qo34BmRTZxLQxEUkwXfG3uA" height="175px"/></a>
 
 ## 🔧 Dependencies:
 
